@@ -3,7 +3,8 @@
 
 
 ## Requirements ##
-1. USB Debugging Enabled Device 2. A PC/Laptop running on Windows/mac/Linux
+1. USB Debugging Enabled Device 
+2. A PC/Laptop running on Windows/mac/Linux
 
 ## Enable USB Debugging If not ##
 1. Go to Settings ==> About phone 
@@ -46,5 +47,7 @@ Step 4 : Then type
 Enjoy Debloated MIUI :thumbsup: :metal:
 
 ### P.S I have not included Some Mi Apps like Mi Screen Recorder, Clock, Gboard, Notes if you Want then Add Yours ###
+
+### If you  want those apps back , Do a Factory reset, 100% safe. ###
 
 ##### Reference : [Post from XDA](https://forum.xda-developers.com/redmi-note-5-pro/how-to/r-t3875258) 
