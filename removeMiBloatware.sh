@@ -3,9 +3,6 @@ adb shell pm uninstall -k --user 0 com.android.mms #Mensajes
 adb shell pm uninstall -k --user 0 com.facebook.appmanager #Facebook App Manager
 adb shell pm uninstall -k --user 0 com.facebook.services #Facebook Services
 adb shell pm uninstall -k --user 0 com.facebook.system #Facebook App Installer
-adb shell pm uninstall -k --user 0 com.google.android.apps.docs #Google Drive
-adb shell pm uninstall -k --user 0 com.google.android.apps.maps #Google Maps
-adb shell pm uninstall -k --user 0 com.google.android.apps.photos #Google Photos
 adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon #Google Duo
 adb shell pm uninstall -k --user 0 com.google.android.music #Google Music
 adb shell pm uninstall -k --user 0 com.google.android.videos #Play Movies
@@ -23,3 +20,14 @@ adb shell pm uninstall -k --user 0 com.xiaomi.glgm #Mi games
 adb shell pm uninstall -k --user 0 com.miui.hybrid #Quick Apps
 adb shell pm uninstall -k --user 0 com.xiaomi.payment #MiPay
 adb shell pm uninstall -k --user 0 com.mipay.wallet.id #mi pay id
+adb shell pm uninstall -k --user 0 com.xiaomi.o2o #o2o
+adb shell pm uninstall -k --user 0 com.xiaomi.vipaccount # VIP account , found in some devices
+adb shell pm uninstall -k --user 0 com.xiaomi.joyose # joyose
+adb shell pm uninstall -k --user 0 com.xiaomi.lens # Xiaomi lens
+adb shell pm uninstall -k --user 0 com.xiaomi.pass # xioami Pass
+adb shell pm uninstall -k --user 0 com.miui.systemAdSolution # SystemAdsolution
+adb shell pm uninstall -k --user 0 com.baidu.input_mi # Mi input
+adb shell pm uninstall -k --user 0 com.baidu.duersdk.opensdk #baidu open sdk
+adb shell pm uninstall -k --user 0 com.autonavi.minimap #autonavi minimap
+adb shell pm uninstall -k --user 0 com.miui.daemon # miui daemon
+adb shell pm uninstall -k --user 0 com.miui.contentcatcher # content catcher
