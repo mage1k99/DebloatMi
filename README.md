@@ -1,6 +1,37 @@
 # DebloatMi
 :sparkles: script to debloat Mi Apps ***No ROOT or Unlocked Bootloader Required!*** :sparkles:
 
+#### removing These Apps is Safe So, Don't Panic
+
+
+### Apps Removed ###
+
+* Mi Browser
+* Facebook App Manager
+* Facebook Services
+* Facebook App Installer
+* Analytics
+* Mi Feedback
+* Calculator
+* Google Duo
+* mas (Main System Adversting)
+* Play Music
+* Play Movies
+* Youtube
+* Mi video
+* Mi music
+* Mi notes
+* Mi Apps (Get Apps)
+* Quick Apps
+* Mi pay
+* Mi pay ID
+* VIP account
+* joyose
+* Xiaomi Lens
+* Xiaomi pass
+* Mi input
+* deamon
+* content Catcher
 
 ## Requirements ##
 1. USB Debugging Enabled Device 
@@ -46,8 +77,10 @@ Step 4 : Then type
 
 Enjoy Debloated MIUI :thumbsup: :metal:
 
-### P.S I have not included Some Mi Apps like Mi Screen Recorder, Clock, Gboard, Notes if you Want then Add Yours ###
+### P.S I have not included Some Mi Apps like Mi Screen Recorder, Clock, Gboard if you Want then Add Yours ###
 
-### If you  want those apps back , Do a Factory reset, 100% safe. ###
+### If you  want those apps back , Do a Factory reset ###
+
+#### Some Apps Can be Re installed As Apks ####
 
 ##### Reference : [Post from XDA](https://forum.xda-developers.com/redmi-note-5-pro/how-to/r-t3875258) 
