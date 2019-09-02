@@ -79,9 +79,13 @@ Enjoy Debloated MIUI :thumbsup: :metal:
 
 ### One Of Notable Changes is visible in Recents Screen
 
-![Before Image](https://github.com/mage1k99/image_hostingRepo/blob/master/DebloatMi_asserts/before.jpg "Before Debloating, Mi Apps's Find App in Recent Screen")
+![Before Image](https://github.com/mage1k99/image_hostingRepo/blob/master/DebloatMi_asserts/before.jpg)
 
-![After Image](https://github.com/mage1k99/image_hostingRepo/blob/master/DebloatMi_asserts/after.jpg "After Debloating, Find Apps Option Replaced")
+> Before Debloating, Mi Apps's Find App in Recent Screen
+
+![After Image](https://github.com/mage1k99/image_hostingRepo/blob/master/DebloatMi_asserts/after.jpg)
+
+> After Debloating, Find Apps Option Replaced
 
 ### P.S I have not included Some Mi Apps like Mi Screen Recorder, Clock, Gboard if you Want then Add Yours ###
 
