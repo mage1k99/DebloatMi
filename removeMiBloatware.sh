@@ -31,3 +31,4 @@ adb shell pm uninstall -k --user 0 com.baidu.duersdk.opensdk #baidu open sdk
 adb shell pm uninstall -k --user 0 com.autonavi.minimap #autonavi minimap
 adb shell pm uninstall -k --user 0 com.miui.daemon # miui daemon
 adb shell pm uninstall -k --user 0 com.miui.contentcatcher # content catcher
+adb shell pm uninstall -k --user 0 com.mipay.wallet.in #mi pay
