@@ -2,7 +2,6 @@
 title Debloat MIUI
 
 adb shell pm uninstall -k --user 0 com.android.browser rem Mi Browser
-adb shell pm uninstall -k --user 0 com.android.mms rem Mensajes
 adb shell pm uninstall -k --user 0 com.facebook.appmanager rem Facebook App Manager
 adb shell pm uninstall -k --user 0 com.facebook.services rem Facebook Services
 adb shell pm uninstall -k --user 0 com.facebook.system rem Facebook App Installer
@@ -34,3 +33,4 @@ adb shell pm uninstall -k --user 0 com.baidu.duersdk.opensdk rem baidu open sdk
 adb shell pm uninstall -k --user 0 com.autonavi.minimap rem autonavi minimap
 adb shell pm uninstall -k --user 0 com.miui.daemon rem miui daemon
 adb shell pm uninstall -k --user 0 com.miui.contentcatcher rem content catcher
+adb shell pm uninstall -k --user 0 com.mipay.wallet.in rem Mi pay
