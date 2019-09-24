@@ -1,5 +1,5 @@
 adb shell pm uninstall -k --user 0 com.android.browser #Mi Browser
-adb shell pm uninstall -k --user 0 com.android.mms #Mensajes
+
 adb shell pm uninstall -k --user 0 com.facebook.appmanager #Facebook App Manager
 adb shell pm uninstall -k --user 0 com.facebook.services #Facebook Services
 adb shell pm uninstall -k --user 0 com.facebook.system #Facebook App Installer
