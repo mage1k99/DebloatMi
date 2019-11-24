@@ -12,7 +12,7 @@ adb shell pm uninstall -k --user 0 com.google.android.youtube rem Youtube
 adb shell pm uninstall -k --user 0 com.mi.android.globalFileexplorer rem Administrador de archivos
 adb shell pm uninstall -k --user 0 com.miui.analytics rem Analytics
 adb shell pm uninstall -k --user 0 com.miui.bugreport rem Mi Feedback
-adb shell pm uninstall -k --user 0 com.miui.calculator rem Calculadora
+adb shell pm uninstall -k --user 0 com.miui.calculator rem Calculator
 adb shell pm uninstall -k --user 0 com.miui.msa.global rem mas (main system advertising)
 adb shell pm uninstall -k --user 0 com.miui.notes rem Mi Notes
 adb shell pm uninstall -k --user 0 com.miui.player rem Mi Music
