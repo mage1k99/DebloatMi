@@ -2,6 +2,21 @@
 title Debloat MIUI
 
 adb shell pm uninstall -k --user 0 com.android.browser rem Mi Browser
+adb shell pm uninstall -k --user 0 com.facebook.katana rem Facebook
+adb shell pm uninstall -k --user 0 in.amazon.mShop.android.shopping rem Amazon
+adb shell pm uninstall -k --user 0 com.miui.cloudbackup rem Mi cloud
+adb shell pm uninstall -k --user 0 com.google.android.apps.subscriptions.red rem Google One
+adb shell pm uninstall -k --user 0 com.google.android.apps.nbu.paisa.user rem Google Pay
+adb shell pm uninstall -k --user 0 com.linkedin.android rem Linkedin
+adb shell pm uninstall -k --user 0 com.xiaomi.account rem Xiaomi Account
+adb shell pm uninstall -k --user 0 com.xiaomi.mi_connect_service rem Mi Connect
+adb shell pm uninstall -k --user 0 cn.wps.xiaomi.abroad.lite rem WPS
+adb shell pm uninstall -k --user 0 com.miui.mishare.connectivity rem Mi Share
+adb shell pm uninstall -k --user 0 com.netflix.mediaclient rem Netflix
+adb shell pm uninstall -k --user 0 com.amazon.avod.thirdpartyclient rem Amazon Prime Video
+adb shell pm uninstall -k --user 0 com.xiaomi.drop rem Share me
+adb shell pm uninstall -k --user 0 com.miui.weather2 rem Weather
+adb shell pm uninstall -k --user 0 com.miui.cloudservice rem Mi Cloud
 adb shell pm uninstall -k --user 0 com.facebook.appmanager rem Facebook App Manager
 adb shell pm uninstall -k --user 0 com.facebook.services rem Facebook Services
 adb shell pm uninstall -k --user 0 com.facebook.system rem Facebook App Installer
